@@ -10,7 +10,7 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: XX<br>
