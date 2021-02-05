@@ -1,25 +1,17 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2020.1_G1_ProjetoPandora*. !!** 
- 
- (Apague essa seção)
-
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 04<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0016838  |  Lucas Lopes Xavier |
+| 15/0016310  |  Luis Gustavo Avelino de Lima Jacinto |
+| 14/0155350  |  Matheus Filipe |
+| 15/0142536  |  Murilo Schiler |
+| 18/0054554  |  Paulo Batista |
+| 17/0115208  |  Victor Levi Peixoto |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
