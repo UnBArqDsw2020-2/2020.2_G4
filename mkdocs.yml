@@ -1,0 +1,20 @@
+site_name: Solução Brechó
+pages:
+  - Home: 'index.md'
+  - Base: 
+    - 5W2H: 'base/5W2H.md'
+    - BPMN: 'base/bpmn.md'
+    - Brainstorming: 'base/brainstorming.md'
+    - Diagrama causa-efeito: 'base/causa-efeito.md'
+    - Custo: 'base/custo.md'
+    - Design Sprint: 'base/designSprint.md'
+    - Esforço e tempo: 'base/esforco-tempo.md'
+    - Mapa mental: 'base/mapamental.md'
+    - Metodologia: 'base/metodologia.md'
+    - Rich Picture: 'base/richpicture.md'
+    - Risco: 'base/risco.md'
+
+
+theme:
+  name: material
+  language: pt
