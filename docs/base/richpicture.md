@@ -20,7 +20,8 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 * ##### Visão geral
 
-![Visão geral](https://i.imgur.com/x2c0PkD.png)
+![Visão geral](https://i.imgur.com/x2c0PkD.png)  
+<br />
 Autor: Matheus Filipe
 
 
