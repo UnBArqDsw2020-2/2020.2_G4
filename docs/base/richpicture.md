@@ -27,5 +27,5 @@ Autor: Matheus Filipe
 #### Referências
 
 * SERRANO, M. Arquitetura e desenho de software - 02c - VídeoAula - DSW - Base - RichPicture. Disponível em: https://aprender3.unb.br/course/view.php?id=6245.  
-<br />  
+  
 * RICH PICTURES. SYSTEMS.OPEN. Disponível em: http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html.
