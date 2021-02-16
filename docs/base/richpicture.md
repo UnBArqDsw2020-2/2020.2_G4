@@ -20,12 +20,13 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 * ##### Visão geral
 
-![Visão geral](https://i.imgur.com/x2c0PkD.png)
+![Visão geral](https://i.imgur.com/x2c0PkD.png)  
+<br />
 Autor: Matheus Filipe
 
 
 #### Referências
 
 * SERRANO, M. Arquitetura e desenho de software - 02c - VídeoAula - DSW - Base - RichPicture. Disponível em: https://aprender3.unb.br/course/view.php?id=6245.  
-  
+
 * RICH PICTURES. SYSTEMS.OPEN. Disponível em: http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html.
