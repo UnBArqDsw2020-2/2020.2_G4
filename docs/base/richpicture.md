@@ -6,6 +6,7 @@
 |------|--------|-----------|-------|
 | 14/02/2021 | 1.0 | Criação do documento | Matheus Filipe |
 | 16/02/2021 | 1.1 | Adição de conceitos | Matheus Filipe |
+| 16/02/2021 | 1.2 | Adição de imagem | Matheus Filipe |
 
 
 ## 1. Introdução
@@ -17,7 +18,9 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 ### 1.2. Apresentação
 
-* [Visão geral](https://i.imgur.com/x2c0PkD.png)
+* ##### Visão geral
+
+![Visão geral](https://i.imgur.com/x2c0PkD.png)
 Autor: Matheus Filipe
 
 
