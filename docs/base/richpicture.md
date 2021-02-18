@@ -18,14 +18,17 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 ### 1.2. Apresentação
 
-* ##### Visão geral
+#### v0.0
+![primeira versao](./richpicture/rich_picture_victor.jpg)  
+
+#### v1.0
 
 ![Visão geral](https://i.imgur.com/x2c0PkD.png)  
 <br />
 <p align="center"> Autor: Matheus Filipe </p>
 
 
-* ##### Visão geral
+#### v1.1
 
 ![Visão geral](https://user-images.githubusercontent.com/38164895/108240133-4cbd3c00-7129-11eb-8093-07730aacebe3.png)
 
