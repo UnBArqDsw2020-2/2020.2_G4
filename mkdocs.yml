@@ -13,6 +13,7 @@ pages:
     - Metodologia: 'base/metodologia.md'
     - Rich Picture: 'base/richpicture.md'
     - Risco: 'base/risco.md'
+    - Protótipo de alta fidelidade: "base/prototipo.md"
 
 
 theme:
