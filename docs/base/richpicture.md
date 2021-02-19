@@ -7,7 +7,7 @@
 | 14/02/2021 | 1.0 | Criação do documento | Matheus Filipe |
 | 16/02/2021 | 1.1 | Adição de conceitos | Matheus Filipe |
 | 16/02/2021 | 1.2 | Adição de imagem | Matheus Filipe |
-
+| 16/02/2021 | 1.3 | Adição do 2° RP | Lucas Lopes |
 
 ## 1. Introdução
 
@@ -22,7 +22,14 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 ![Visão geral](https://i.imgur.com/x2c0PkD.png)  
 <br />
-Autor: Matheus Filipe
+<p align="center"> Autor: Matheus Filipe </p>
+
+
+* ##### Visão geral
+
+![Visão geral](https://user-images.githubusercontent.com/38164895/108240133-4cbd3c00-7129-11eb-8093-07730aacebe3.png)
+
+<p align="center"> Autor: lucas Lopes </p>
 
 
 #### Referências
