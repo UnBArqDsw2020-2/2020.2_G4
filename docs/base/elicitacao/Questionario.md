@@ -69,6 +69,10 @@
 | Q7 | Deve ter chat com o vendedor |
 | Q8 | Ter opção de adicionar ao carrinho |
 | Q9 | Ter opção de categorizar por tipo de peça |
+| Q10 | A interface deve ser amigável ao usuário |
+| Q11 | A interface deve ser rápida e intuitiva |
+| Q12 | Pouco cliques até o objetivo final |
+
 
 ## Refêrencias
 

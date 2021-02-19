@@ -13,11 +13,13 @@
 
 ## Participantes
 
-<li> Lucas Lopes </li>
-<li> Matheus Filipe </li>
-<li> Murilo Schiler </li>
-<li> Paulo Batista </li>
-<li> Victor Levi Peixoto </li>
+<ul>
+    <li> Lucas Lopes </li>
+    <li> Matheus Filipe </li>
+    <li> Murilo Schiler </li>
+    <li> Paulo Batista </li>
+    <li> Victor Levi Peixoto </li>
+</ul>
 
 ## Requisitos Elicitados
 
