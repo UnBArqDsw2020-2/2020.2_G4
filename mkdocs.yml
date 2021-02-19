@@ -4,7 +4,11 @@ pages:
   - Base: 
     - 5W2H: 'base/5W2H.md'
     - BPMN: 'base/bpmn.md'
-    - Brainstorming: 'base/brainstorming.md'
+    - Elicitação: 
+      - Brainstorming: 'base/elicitacao/Brainstorming.md'
+      - Questionario: 'base/elicitacao/Questionario.md'
+      - Priorização: 
+        - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
     - Diagrama causa-efeito: 'base/causa-efeito.md'
     - Custo: 'base/custo.md'
     - Design Sprint: 'base/designSprint.md'
