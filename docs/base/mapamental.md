@@ -6,7 +6,8 @@
 |------|--------|-----------|-------|
 | 14/02/2021 | 1.0 | Criação do documento | Matheus Filipe |
 | 16/02/2021 | 1.1 | Adição de conceitos | Matheus Filipe |
-| 16/02/2021 | 1.1 | Adição do 2° mapa mental | Lucas Lopes |
+| 16/02/2021 | 1.2 | Adição do 2° mapa mental | Lucas Lopes |
+| 19/02/2021 | 1.3 | Adição do 3° mapa mental | Murilo Schiler |
 
 
 ## 1. Introdução 
@@ -29,6 +30,12 @@ O mapa mental é uma forma de representação geral do escopo de um projeto que 
 ![Diagrama](https://user-images.githubusercontent.com/38164895/108245500-1c789c00-712f-11eb-92bf-06435699419a.png)
 
 <p align="center"> Autor Lucas Lopes </p>
+
+* Visão geral
+
+![MapaMentalSolucaoBrecho](https://user-images.githubusercontent.com/54318472/108533236-83c15800-72b7-11eb-9c7f-48b2a7771627.png)
+
+<p align="center"> Murilo Schiler</p>
 
 
 #### Referências
