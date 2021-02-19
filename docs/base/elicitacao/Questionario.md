@@ -56,7 +56,7 @@
 ![image](https://user-images.githubusercontent.com/38164895/108526096-84ee8700-72af-11eb-9494-a9a4ff640549.png)
 
 
-## Requisitos ELicitados
+## Requisitos Elicitados
 
 | ID | Descrição | 
 |------|--------|
