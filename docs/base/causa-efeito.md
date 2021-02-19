@@ -10,7 +10,7 @@
 ## 1. Introdução
 Criado na década de 60, o Diagrama de Ishikawa, também conhecido como Diagrama de Espinha de Peixe ou Diagrama de Causa e Efeito, é uma ferramenta da qualidade que ajuda a levantar as causas e raízes do efeito analisado.
 
-Todo problema, ou qualidade, tem causas específicas, e essas causas devem ser analisadas e testadas, uma a uma, a fim de comprovar qual delas está influenciando o efeito analisado. 
+Todo problema, ou qualidade, tem causas específicas, e essas causas devem ser analisadas e testadas, uma a uma, a fim de comprovar qual delas está influenciando o efeito analisado e visando o melhor aproveitamento da técnica foram feitos alguns diagramas de pontos de vista diferentes dos membros da equipe com a finalidade de encontrar e resolver problemas que culminar no atraso na entrega da demanda ou na baixa produtividade do grupo.
 
 ## 2. Diagramas
 
