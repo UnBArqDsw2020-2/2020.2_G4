@@ -1,5 +1,12 @@
 # Riscos
 
+#### Histórico de Versões
+
+| Data | Versão | Descrição | Autor |
+|------|--------|-----------|-------|
+| 14/02/2021 | 1.0 | Criação do documento | Matheus Filipe |
+| 18/02/2021 | 1.1 | Adição dos documentos | Victor Levi Peixoto |
+
 ## 1. Introdução
 
 O planejamento de riscos de um projeto é de suma importância para que, no momento em que se deparar com uma adversidade a equipe ter ciência de quanto tempo aquela adversidade deve demorar, como agir para mitigar seus impáctos, e como sobresair dessa adversidade. Além de tentar prever as possíveis adversidades e, com o mesmo ímpeto, prever as oportunidades que serão encontradas.
@@ -56,3 +63,10 @@ Será utilizado o método SWOT Strenghts(pontos fortes), Weaknesses(Pontos fraco
 O risco é algo extremamente complexo nos projetos e difícil de se quantificar e demanda diversas fontes para tentar o quantificar. Dessa forma utilizaremos o EAR (Estrutura Analítica de Riscos) ou RBS (Risk Breakdown Structure) essa estrutura é orientada à origem do risco em que cada nível descendente representa uma definição mais detalhada dos fatores de riscos para o projeto
 
 ![EAR](./riscos/Diagrama_EAR.jpg)
+
+#### Referências
+
+* OLIVEIRA, A. Keldjan, PROPOSTA DE ESTRUTURA ANALÍTICA DE RISCOS PARA PROJETOS DE DESENVOLVIMENTO DISTRIBUÍDO DE SOFTWARE. Disponível em: https://repositorio.ufpe.br/bitstream/123456789/2743/1/arquivo6954_1.pdf
+
+* PEDROSO, L. UMA SISTEMÁTICA PARA A IDENTIFICAÇÃO, ANÁLISE QUALITATIVA E ANÁLISE QUANTITATIVA DOS RISCOS EM PROJETOS. Disponível em: https://www.teses.usp.br/teses/disponiveis/3/3135/tde-03082007-174606/publico/TeseCompleta.pdf
+
