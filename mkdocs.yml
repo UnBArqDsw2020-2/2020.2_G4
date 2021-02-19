@@ -1,10 +1,14 @@
-site_name: Solução Brechó
+site_name: Meu Brechó
 pages:
   - Home: 'index.md'
   - Base: 
     - 5W2H: 'base/5W2H.md'
     - BPMN: 'base/bpmn.md'
-    - Brainstorming: 'base/brainstorming.md'
+    - Elicitação: 
+      - Brainstorming: 'base/elicitacao/Brainstorming.md'
+      - Questionario: 'base/elicitacao/Questionario.md'
+      - Priorização: 
+        - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
     - Diagrama causa-efeito: 'base/causa-efeito.md'
     - Custo: 'base/custo.md'
     - Design Sprint: 'base/designSprint.md'
@@ -13,8 +17,12 @@ pages:
     - Metodologia: 'base/metodologia.md'
     - Rich Picture: 'base/richpicture.md'
     - Risco: 'base/risco.md'
+    - Protótipo de alta fidelidade: "base/prototipo.md"
 
 
 theme:
   name: material
   language: pt
+
+repo_name: 'Repositório'
+repo_url: 'https://github.com/UnBArqDsw2020-2/2020.2_G4'
