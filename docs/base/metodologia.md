@@ -17,12 +17,12 @@ O Scrum é um processo de gestão e planejamento de projetos que envolve algum p
 
 Para o projeto SoluçãoBrechó foi acordado dentre os aspectos da metodologia Scrum os seguintes termos:
 
-| Evento | Duração |
+| Evento | Duração / Dia |
 | --- | --- |
-| Sprint | ??? |
-| Daily meeting | ??? |
-| Sprint planning | ??? |
-| Sprint Review | ??? |   
+| Sprint | 1 semana |
+| Daily meeting | Telegram (manhã) |
+| Sprint planning | Segundas-feiras |
+| Sprint Review | Segundas-feiras |   
 
 
 ### 1.2. Kanban
