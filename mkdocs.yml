@@ -6,18 +6,18 @@ pages:
     - BPMN: 'base/bpmn.md'
     - Elicitação: 
       - Brainstorming: 'base/elicitacao/Brainstorming.md'
-      - Questionario: 'base/elicitacao/Questionario.md'
+      - Questionário: 'base/elicitacao/Questionario.md'
       - Priorização: 
         - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
     - Diagrama causa-efeito: 'base/causa-efeito.md'
     - Custo: 'base/custo.md'
     - Design Sprint: 'base/designSprint.md'
-    - Esforço e tempo: 'base/esforco-tempo.md'
-    - Mapa mental: 'base/mapamental.md'
+    - Esforço e Tempo: 'base/esforco-tempo.md'
+    - Mapa Mental: 'base/mapamental.md'
     - Metodologia: 'base/metodologia.md'
     - Rich Picture: 'base/richpicture.md'
-    - Risco: 'base/risco.md'
-    - Protótipo de alta fidelidade: "base/prototipo.md"
+    - Plano de Riscos: 'base/risco.md'
+    - Protótipo de Alta Fidelidade: "base/prototipo.md"
 
 
 theme:

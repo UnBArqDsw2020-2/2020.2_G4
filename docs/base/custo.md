@@ -28,7 +28,7 @@
 | Desenvolvedores | 5 | Responsável pela construção do projeto | 3.000,00 | 15.000,00|
 | Internet | 5 | Utilizado para comunicação da equipe e acesso aos recursos para o desenvolvimento do projeto | 100,00 | 1.500,00 |
 
-<p align="justify"> Os custos  total em média por 3 meses é: 29.762,2
+<p align="justify"> Os custos  total em média por 3 meses é: 29.762,2 </p>
 
 ## 3. Refêrencias
 

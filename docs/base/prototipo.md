@@ -4,9 +4,8 @@
 
 <p align="justify"> Um protótipo de alta fidelidade (às vezes chamado de high-fi ou hi-fi) é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade. </p>
 
-<p align="justify"> Foi utilizado a prototipação vertical (Nielsen em 93) que é focada nas funcionalidades. Dessa forma, um protótipo do sistema pode ser reduzido a um módulo isolado, onde o usuário poderá ver em detalhes um pedaço limitado do sistema. O módulos escolhidos foram "consultar minhas notas" e "Visualizar componente curricular". </p>
 
-## Protótipo
+## Protótipo v1.0
 
  <iframe src="https://marvelapp.com/prototype/g1d0f8b" title="Protótipo" width="1000" height="400"></iframe> 
 
