@@ -17,6 +17,8 @@ Todo problema, ou qualidade, tem causas específicas, e essas causas devem ser a
 ![CEVictor](./causa-efeito/causa-efeito-victor.jpg)
 ![Causa-Efeito](https://user-images.githubusercontent.com/54318472/108553871-0bb45b80-72d2-11eb-9bf8-75e32833ca4f.png)
 
+<p align="center"> Autor: Murilo Schiler </p>
+
 #### Referências
 
 * https://blogdaqualidade.com.br/diagrama-de-ishikawa/ 
