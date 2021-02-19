@@ -15,6 +15,7 @@ Todo problema, ou qualidade, tem causas específicas, e essas causas devem ser a
 ## 2. Diagramas
 
 ![CEVictor](./causa-efeito/causa-efeito-victor.jpg)
+<p align="center"> Autor: Victor Levi Peixoto </p>
 ![Causa-Efeito](https://user-images.githubusercontent.com/54318472/108553871-0bb45b80-72d2-11eb-9bf8-75e32833ca4f.png)
 
 <p align="center"> Autor: Murilo Schiler </p>
