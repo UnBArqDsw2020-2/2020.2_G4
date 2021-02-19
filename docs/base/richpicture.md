@@ -8,6 +8,7 @@
 | 16/02/2021 | 1.1 | Adição de conceitos | Matheus Filipe |
 | 16/02/2021 | 1.2 | Adição de imagem | Matheus Filipe |
 | 16/02/2021 | 1.3 | Adição do 2° RP | Lucas Lopes |
+| 19/02/2021 | 1.4 | Adição do 3° RP | Murilo Schiler  |
 
 ## 1. Introdução
 
@@ -18,19 +19,29 @@ Uma das técnicas de pré-rastreabilidade da elecitação de requisitos e que se
 
 ### 1.2. Apresentação
 
-* ##### Visão geral
+#### v0.0
+![primeira versao](./richpicture/rich_picture_victor.jpg)  
+
+#### v1.0
 
 ![Visão geral](https://i.imgur.com/x2c0PkD.png)  
 <br />
 <p align="center"> Autor: Matheus Filipe </p>
 
 
-* ##### Visão geral
+#### v1.0
 
 ![Visão geral](https://user-images.githubusercontent.com/38164895/108240133-4cbd3c00-7129-11eb-8093-07730aacebe3.png)
 
 <p align="center"> Autor: lucas Lopes </p>
 
+
+#### v1.0
+![RichPicture](https://user-images.githubusercontent.com/54318472/108532485-a9019680-72b6-11eb-9754-96895f2e5cbe.png)
+
+
+
+<p align="center"> Autor: Murilo Schiler </p>
 
 #### Referências
 
