@@ -30,6 +30,13 @@ A fim de se ter um sistema visual para gerenciamento de tarefas a cerca de um pr
 
 É uma poderosa metodologia no que diz respeito à gestão de projeto e foi escolhida pelo grupo para o auxílio da organização das tarefas do projeto SoluçãoBrechó. A ferramenta chamada Zenhub que é disponibilizada pela plataforma Github, será utilizada para o propósito do kanban. 
 
+### 1.3. Extreme Programming(XP)
+  XP é uma metodologia de desenvlvimento de software, que ajuda a criar sistemas de melhor qualidade, mais rapidamente e de forma mais econômica, seguindo um conjunto de 5 valores: Comunicação, Coragem, Feedback, Respeito e Simplicidade.
+Além desses valores, o XP emprega algumas práticas, como programação por pares, integração contínua e desevolvimento orientado a testes.
+
+  Do XP, resolvemos aderir a programação por pares(Pair Programming), pois além de auxiliar no nivelamento do conhecimento da equipe, é muito útil para perceber erros mais facilmente.
+
+
 
 #### Referências
 
