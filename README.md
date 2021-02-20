@@ -24,6 +24,7 @@ Desenvolvimento de uma Aplicação Web sobre um brechó online , com funcionalid
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 https://youtu.be/CPkrgRLhXEw
+https://youtu.be/ugguzwuIr0w
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
