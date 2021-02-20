@@ -1,8 +1,5 @@
 # Design sprint
 
-# MoSCoW
-
-
 ## **Histórico de revisões**
 Autor | Versão | Data(dd/mm/aaa) | Descrição 
 ---- | ----------- | ------ | ---------
