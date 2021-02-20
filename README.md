@@ -14,10 +14,13 @@
 | 17/0115208  |  Victor Levi Peixoto |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Desenvolvimento de uma Aplicação Web sobre um brechó online , com funcionalidades como compra e venda de artigos de vestiário , além de filtros de busca.   
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+![Causa-Efeito](https://user-images.githubusercontent.com/54318472/108576316-e2a8c080-72fb-11eb-8bcf-3eb8c21c63e8.png)
+
+![MapaMentalSolucaoBrecho](https://user-images.githubusercontent.com/54318472/108576325-f3f1cd00-72fb-11eb-8c2a-aad2c1c09f34.png)
+
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione o(s)s vídeo(s) da Primeira Entrega.
