@@ -2,23 +2,41 @@ site_name: Meu Brechó
 pages:
   - Home: 'index.md'
   - Base: 
-    - 5W2H: 'base/5W2H.md'
-    - BPMN: 'base/bpmn.md'
-    - Elicitação: 
-      - Brainstorming: 'base/elicitacao/Brainstorming.md'
-      - Questionário: 'base/elicitacao/Questionario.md'
-      - Priorização: 
-        - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
-    - Diagrama causa-efeito: 'base/causa-efeito.md'
-    - Custo: 'base/custo.md'
-    - Design Sprint: 'base/designSprint.md'
-    - Esforço e Tempo: 'base/esforco-tempo.md'
-    - Mapa Mental: 'base/mapamental.md'
-    - Metodologia: 'base/metodologia.md'
-    - Rich Picture: 'base/richpicture.md'
-    - Plano de Riscos: 'base/risco.md'
-    - Protótipo de Alta Fidelidade: "base/prototipo.md"
+    - Módulo Projeto Não Orientado a Abordagens Específicas:
+      - 5W2H: 'base/5W2H.md'
+      - Diagrama causa-efeito: 'base/causa-efeito.md'
+      - Esforço e Tempo: 'base/esforco-tempo.md'
+      - Custo: 'base/custo.md'
+      - Plano de Riscos: 'base/risco.md'
+      - Elicitação: 
+        - Brainstorming: 'base/elicitacao/Brainstorming.md'
+        - Questionário: 'base/elicitacao/Questionario.md'
+        - Priorização: 
+          - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
+      - Design Sprint: 'base/designSprint.md'
+      - Mapa Mental: 'base/mapamental.md'
+      - Rich Picture: 'base/richpicture.md'
+      - Protótipo de Alta Fidelidade: "base/prototipo.md"
+    - Módulo Processos/Metodologias/Abordagens:
+      - BPMN: 'base/bpmn.md'
+      - Metodologia: 'base/metodologia.md'
+  - Modelagem:
+    - Diagrama Dinâmicos:
+      - Diagrama de Atividades: 'modelagem/dinamicos/diagramaAtividades.md'
+      - Diagrama de Sequências: 'modelagem/dinamicos/diagramaSequencia.md'
+      - Diagrama de Comunicação: 'modelagem/dinamicos/diagramaComunicacao.md'
+      - Diagrama de Estados: 'modelagem/dinamicos/diagramaEstado.md'
+      - Diagrama de Casos de Uso: 'modelagem/dinamicos/diagramacasoUso'
+    - Diagrama Estáticos:
+      - Diagrama de Classes: 'modelagem/estaticos/diagramaClasses.md'
+      - Diagrama de Pacotes: 'modelagem/estaticos/diagramaPacotes.md'
+      - Diagrama de Componentes: 'modelagem/estaticos/diagramaComponentes'
+    - Iniciativas Extras:
+      - DER Diagrama Entidade-Relacionamento: 'modelagem/diagramaDER'
 
+
+    
+   
 
 theme:
   name: material
