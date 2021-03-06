@@ -25,7 +25,7 @@ versão 1.0
 
 ### 2.4. Sprint
 versão 1.0
-![img](https://i.imgur.com/HSdzSEi.png)
+![img](https://i.imgur.com/oFS01KD.png)
 
 #### Referências
  
