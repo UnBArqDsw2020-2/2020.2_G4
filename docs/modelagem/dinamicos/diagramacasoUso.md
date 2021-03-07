@@ -5,21 +5,33 @@
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
 | 01/03/2021 | 1.0 | Criação do documento | Lucas Lopes |
+| 06/03/2021 | 1.0 | Criação da introdução e do diagrama | Lucas Lopes |
 
 ## Introdução
 
 
-##
+<p align="justify"> O diagrama de Casos de Uso auxilia no levantamento dos requisitos funcionais do sistema, descrevendo um conjunto de funcionalidades do sistema e suas interações com elementos externos e entre si. </p>
+<p align="justify"> Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os detalhes dos usuários do seu sistema (também conhecidos como atores) e as interações deles com o sistema. </p>
+
+<p align="justify"> Os principais elementos de um diagrama de caso de uso são:</p>
+
+<ul>
+    <li> Atores: Boneco representa um humano ou sistema computacional </li>
+    <li> Caso de uso: representa uma fucionalidade do sistema </li>
+    <ul> Relacionamentos: Auxiliam na descrição dos casos de usos <li>Relacionamento de inclusão: Quando um caso de uso depende de outro</li> <li> Quando um caso de uso pode ocorrer em decorrencia de outro.   </li> </ul>
+</ul>
 
 
+## Diagrama 
 
+<p align="center"> Diagrama de casos de uso V.10 </p>
 
+![image](https://user-images.githubusercontent.com/38164895/110228811-d9664900-7ee2-11eb-809e-96c24dc7b6af.png)
 
-
-
-
-
-
-
+<p align="center"> Fonte: Autor </p>
 
 ## Referências
+
+<p aling="justify"> MEDIUM. UML — Diagrama de Casos de Uso. Disponível em: https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5. Acesso em: 06 mar. 2021. </p>
+
+<p align="justify"> Lucidchart. Diagrama de caso de uso UML: o que é, como fazer  e exemplos. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml. Acesso em 06 mar. 2021. </p>
