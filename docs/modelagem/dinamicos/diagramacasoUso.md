@@ -5,7 +5,8 @@
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
 | 01/03/2021 | 1.0 | Criação do documento | Lucas Lopes |
-| 06/03/2021 | 1.0 | Criação da introdução e do diagrama | Lucas Lopes |
+| 06/03/2021 | 1.1 | Criação da introdução e do diagrama | Lucas Lopes |
+| 07/03/2921 | 1.2 | Pequena atualização do diagrama de casos de uso | Lucas Lopes, Murilo, Matheus | 
 
 ## Introdução
 
@@ -24,9 +25,10 @@
 
 ## Diagrama 
 
-<p align="center"> Diagrama de casos de uso V.10 </p>
+<p align="center"> Diagrama de casos de uso V.1.0 </p>
 
-![image](https://user-images.githubusercontent.com/38164895/110228811-d9664900-7ee2-11eb-809e-96c24dc7b6af.png)
+![Untitled Diagram-Page-2(4)](https://user-images.githubusercontent.com/38164895/110263885-c614b580-7f96-11eb-837c-6b8f20e18b69.png)
+
 
 <p align="center"> Fonte: Autor </p>
 
