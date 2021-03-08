@@ -6,6 +6,7 @@
 |------|--------|-----------|-------|
 | 01/03/2021 | 1.0 | Criação do documento | Lucas Lopes |
 | 03/03/2021 | 1.1 | Criação da introdução e do diagrama | Lucas Lopes |
+| 08/03/2021 | 1.2 | Pequena atualização no diagrama de classes | Lucas e Murillo |
 
 ## Introdução
 <p align="justify"> Diagramas de classes estão entre os tipos mais úteis de diagramas UML pois mapeiam de forma clara a estrutura de um determinado sistema ao modelar suas classes, seus atributos, operações e relações entre objetos. Na UML uma classe é representada por um retângulo com três divisões, são elas: O nome da classe, seus atributos e por fim os métodos. </p>
@@ -22,9 +23,9 @@
 
 ## Diagrama
 
-<p align="center"> Diagrama de classes V1.0 </p>
+<p align="center"> Diagrama de classes V1.1 </p>
 
-![Untitled Diagram(2)](https://user-images.githubusercontent.com/38164895/109895678-5f2d8e80-7c6e-11eb-9bc7-618ecfd7043f.png)
+![classes](https://user-images.githubusercontent.com/38164895/110386945-b8ffd100-803f-11eb-9e48-cca978a376b6.png)
 
 <p align="center"> Fonte: Autor </p>
 
