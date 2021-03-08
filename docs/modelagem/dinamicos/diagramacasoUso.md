@@ -32,6 +32,15 @@
 
 <p align="center"> Fonte: Autor </p>
 
+
+<p align="center"> Diagrama de casos de uso V2.0 </p>
+
+![Untitled Diagram-Page-2(5)](https://user-images.githubusercontent.com/38164895/110386468-147d8f00-803f-11eb-86e9-aaa95ee7132f.png)
+
+<p align="center"> Fonte: Autor </p>
+
+
+
 ## Referências
 
 <p aling="justify"> MEDIUM. UML — Diagrama de Casos de Uso. Disponível em: https://medium.com/operacionalti/uml-diagrama-de-casos-de-uso-29f4358ce4d5. Acesso em: 06 mar. 2021. </p>
