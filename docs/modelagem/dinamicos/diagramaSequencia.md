@@ -13,9 +13,16 @@ O diagrama de sequência serve para ilustrar um conjunto de interações entre p
 
 ## Apresentação
 
-#### B1: Realizar login
+#### Realizar login
 
-![Visão geral](https://i.imgur.com/qjK28OL.png)  
+![Realizar login](https://i.imgur.com/OG72qca.png)  
+<br />
+
+<p align="center"> Autor: Matheus Filipe </p>
+
+#### Cadastrar produto
+
+![Cadastrar produto](https://i.imgur.com/lmjcIpN.png)  
 <br />
 
 <p align="center"> Autor: Matheus Filipe </p>
