@@ -7,7 +7,6 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0016838  |  Lucas Lopes Xavier |
-| 15/0016310  |  Luis Gustavo Avelino de Lima Jacinto |
 | 14/0155350  |  Matheus Filipe |
 | 15/0142536  |  Murilo Schiler |
 | 18/0054554  |  Paulo Batista |
@@ -28,10 +27,16 @@ https://youtu.be/CPkrgRLhXEw
 https://youtu.be/ugguzwuIr0w
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+
+![image](https://user-images.githubusercontent.com/38164895/110405588-9382bf80-805f-11eb-81a4-b41af75ca916.png)
+
+
+![image](https://user-images.githubusercontent.com/38164895/110405633-a1384500-805f-11eb-88ad-38a129a3ae2d.png)
+
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione o(s)s vídeo(s) da Segunda Entrega.
+
+Vídeo da segunda entrega: https://www.youtube.com/watch?v=g--pWKViNoY
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
