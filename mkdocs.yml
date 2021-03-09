@@ -11,8 +11,6 @@ pages:
       - Elicitação: 
         - Brainstorming: 'base/elicitacao/Brainstorming.md'
         - Questionário: 'base/elicitacao/Questionario.md'
-        - Priorização: 
-          - MosCow: 'base/elicitacao/priorizacao/Moscow.md'
       - Design Sprint: 'base/designSprint.md'
       - Mapa Mental: 'base/mapamental.md'
       - Rich Picture: 'base/richpicture.md'
@@ -31,6 +29,8 @@ pages:
       - Diagrama de Classes: 'modelagem/estaticos/diagramaClasses.md'
       - Diagrama de Pacotes: 'modelagem/estaticos/diagramaPacotes.md'
       - Diagrama de Componentes: 'modelagem/estaticos/diagramaComponentes'
+    - Modelagem: 
+      - Product Backlog: 'base/elicitacao/priorizacao/Moscow.md'
     - Iniciativas Extras:
       - DER Diagrama Entidade-Relacionamento: 'modelagem/diagramaDER'
 
