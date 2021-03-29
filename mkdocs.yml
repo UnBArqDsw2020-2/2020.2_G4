@@ -33,11 +33,20 @@ pages:
       - Diagrama de Componentes: 'modelagem/estaticos/diagramaComponentes'
     - Iniciativas Extras:
       - DER Diagrama Entidade-Relacionamento: 'modelagem/diagramaDER'
-
-
-    
-   
-
+  - Padrões de projeto:
+      - GRASPs:
+        - Controllers: 'padroes_projeto/GRASPs/controllers.md'
+        - Especialista: 'padroes_projeto/GRASPs/especialista.md'
+      - GoFs:
+        - Criacionais:
+          - Factory Method: 'padroes_projeto/GoFs/criacionais/factory_method.md'
+          - Sigleton: 'padroes_projeto/GoFs/criacionais/sigleton.md'
+        - Estruturais:
+          - Composite: 'padroes_projeto/GoFs/estruturais/composite.md'
+          - Facade: 'padroes_projeto/GoFs/estruturais/facade.md'
+        - Comportamentais:
+          - Memento: 'padroes_projeto/GoFs/comportamentais/memento.md'
+          - State: 'padroes_projeto/GoFs/comportamentais/state.md'
 theme:
   name: material
   language: pt
