@@ -34,7 +34,7 @@ pages:
     - Iniciativas Extras:
       - DER Diagrama Entidade-Relacionamento: 'modelagem/diagramaDER'
   - Padrões de projeto:
-      - GRASPs:
+      - GRASPs: 
         - Controllers: 'padroes_projeto/GRASPs/controllers.md'
         - Especialista: 'padroes_projeto/GRASPs/especialista.md'
       - GoFs:
@@ -47,6 +47,10 @@ pages:
         - Comportamentais:
           - Memento: 'padroes_projeto/GoFs/comportamentais/memento.md'
           - State: 'padroes_projeto/GoFs/comportamentais/state.md'
+      - Padrões Extras:
+        - Service Layer Pattern:  'padroes_projeto/extras/service.md'
+            
+          
 theme:
   name: material
   language: pt
