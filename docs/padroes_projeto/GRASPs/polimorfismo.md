@@ -10,5 +10,4 @@ Um exemplo de polimorfismo existe no nosso código do backend.
 ![](https://i.imgur.com/Empzuak.png)
 
 ## Referências
-* Medium, Padrões GRASP — Padrões de Atribuir Responsabilidades. Disponível em: https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204. Acesso em: 07 de Apbil 2021.
-es
+* Medium, Padrões GRASP — Padrões de Atribuir Responsabilidades. Disponível em: https://medium.com/@leandrovboas/padr%C3%B5es-grasp-padr%C3%B5es-de-atribuir-responsabilidades-1ae4351eb204. Acesso em: 07 de Abril 2021.
