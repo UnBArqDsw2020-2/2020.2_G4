@@ -2,7 +2,7 @@
 |------|--------|-----------|-------|
 | 01/04/2021 | 1.0 | Criação do documento | Lucas Lopes |
 | 01/04/2021 | 2.0 | Adição dos conceitos e exemplos aplicados ao projeto | Lucas Lopes |
-
+| 09/04/2021 | 3.0 | Adição dos links para os códigos | Lucas Lopes |
 ## Introdução
 
 <p align="justify"> O padrão   de serviço é um padrão relativamente antigo que era muito popular com o Java EE. Martin Fowler o descreveu em 2004 em seu blog . O objetivo deste padrão é melhorar a modularidade da aplicação removendo a dependência entre o cliente e a implementação de uma camada de serviços . Com as camadas de serviços, podemos  desacoplar componentes de software e melhorar a capacidade de manutenção do código.</p>
@@ -42,21 +42,26 @@
 <p align="justify"> No projeto  foi abstraido as validações e as regras de négocio do controller de cadastro de usuário. Foi criando um serviço externo para o  controller, causando assim maior legibilidade  e manutenção do código. No exemplo abaixo, temos a abstração das validações e das regras de négocio  </p>
 
 
-### Abstraindo a validação do controller
+### Abstraindo a validação do controller 
+[Código](https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/validators/UsercadastrarUsuario.js)
 
 
 ![carbon (3)](https://user-images.githubusercontent.com/38164895/113356528-c2b3e600-9318-11eb-9ae3-6916b7d07e6d.png)
 
 
 
+
 ### Abstraindo nas regras de négocios do controller
 
+[Código](https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/services/CadastrarUsuarioService.js)
 
 
 ![carbon (4)](https://user-images.githubusercontent.com/38164895/113356806-41108800-9319-11eb-804c-49f9ff141597.png)
 
 
 ### Resultado final
+
+[Código](https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/controllers/UserController.js)
 
 ![carbon (6)](https://user-images.githubusercontent.com/38164895/113357801-f55ede00-931a-11eb-9dbf-8792a186b32d.png)
 
