@@ -1,7 +1,7 @@
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
 | 29/03/2021 | 1.0 | Criação do documento | Victor Levi |
-| 09/04/2021 | 1.1 | Introdução e aplicação no projeto | Victor Levi |
+| 09/04/2021 | 1.1 | Introdução e aplicação no projeto | Murilo Schiler |
 
 ## Introdução
 O Factory é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
