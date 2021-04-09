@@ -2,6 +2,7 @@
 |------|--------|-----------|-------|
 | 29/03/2021 | 1.0 | Criação do documento | Victor Levi |
 | 09/04/2021 | 2.0 | Explicação dos conceitos e aplicação no projeto | Lucas Lopes |
+
 ## Introdução
 
 Especialista é um padrão que visa  atribuir responsabilidades para a entidade mais especialista em um determinado contexto em todos os aspectos do sistema.
