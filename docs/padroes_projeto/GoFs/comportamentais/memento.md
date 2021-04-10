@@ -9,9 +9,9 @@ O memento é um padrão de projeto comportamental que permite uma melhor manuten
 ## Aplicação no projeto
 O padrão de projeto Memento foi utilizado para armazenar o estado das checboxes da loja, sendo eles os filtros que filtrarão as roupas, ele depende de um componente que ordena ou não a gravação do estado de determinadas varráveis
 
-![ComponentMemento]('./images/classe_memento.png')
+![ComponentMemento](./images/classe_memento.png)
 
-![UtilizacaoMemento]('./images/utilizacao_memento.png')
+![UtilizacaoMemento](./images/utilizacao_memento.png)
 
 ## Referências
 
