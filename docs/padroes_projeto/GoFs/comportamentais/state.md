@@ -10,8 +10,9 @@ O state é um padrão de projeto comportamental que permite um melhor controle s
 
 O padrão state foi utilizado para ter um melhor controle da atualização das variáveis e dos estados presentes na home do projeto, sendo ela a página que o usuário terá maior conexão.
 
-![ClasseState]('./images/classe_state.png')
-![UtilizacaoState]('./images/utilizacao_state.png')
+![ClasseState](./images/classe_state.png)
+
+![UtilizacaoState](./images/utilizacao_state.png)
 
 
 ##
