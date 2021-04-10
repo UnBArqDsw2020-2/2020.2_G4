@@ -39,10 +39,26 @@ https://youtu.be/ugguzwuIr0w
 Vídeo da segunda entrega: https://www.youtube.com/watch?v=g--pWKViNoY
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+
+### GRASP
+
+![image](https://user-images.githubusercontent.com/38118530/114253727-b1ef1a00-9981-11eb-819b-92ff8b87bb72.png)
+
+### GoF
+
+![image](https://user-images.githubusercontent.com/38118530/114253780-01354a80-9982-11eb-9916-617d0c79dd75.png)
+
+### Extra
+
+![image](https://user-images.githubusercontent.com/38118530/114253664-718f9c00-9981-11eb-924f-731f09ae92a2.png)
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione o(s)s vídeo(s) da Terceira Entrega.
+
+https://youtu.be/AUFh4rc104M
+
+https://youtu.be/8O7JUFBDZEE
+
+https://youtu.be/znODIyFNDI4
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
@@ -58,7 +74,7 @@ Adicione o(s)s vídeo(s) da Entrega Final.
 
 ## O Projeto está rodando?
 ( ) SIM
-( ) NÃO
+(X) NÃO
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares 
