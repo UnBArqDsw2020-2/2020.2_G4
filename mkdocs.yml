@@ -50,6 +50,13 @@ pages:
           - State: 'padroes_projeto/GoFs/comportamentais/state.md'
       - Padrões Extras:
         - Service Layer Pattern:  'padroes_projeto/extras/service.md'
+  - Arquitetura de Software & Reutilização:
+    - Estilos e Padrões Arquiteturais:
+      - Documento de Arquitetura de Software (DAS): 'arqeret/das.md'
+    - Reutilização de Software: 
+      - Documento de Reutilização: 'arqeret/ret.md'
+    
+
             
           
 theme:
