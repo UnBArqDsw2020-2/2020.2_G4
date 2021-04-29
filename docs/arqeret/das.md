@@ -5,6 +5,7 @@
 |------|--------|-----------|-------|
 | 27/04/2021 | 1.0 | Criado a estrutura do documento | Lucas Lopes |
 | 29/04/2021 | 2.0 | Adição do topico 2.0 | Lucas Lopes |
+| 29/04/2021 | 3.0 | Adição do tópico 4.0 | Lucas Lopes |
 
 
 
@@ -41,6 +42,70 @@
 
 
 # 4.0 - Padrão Arquitetural
+
+Padrões arquiteturais expressam formas de organizar a estrutura fundamental do sistema,permitem a construção de uma arquitetura aderente a certas propriedades. Além disso,  fornecem um conjunto de subsistemas pré definidos, especificando suas responsabilidades e incluindo regras e diretrizes para organizar as relações entre eles. O padrão MVC foi escolhido para o projeto.
+
+## MVC
+
+O MVC é um padrão de arquitetura de software. O MVC sugere uma maneira para você pensar na divisão de responsabilidades, principalmente dentro de um software web.
+
+O princípio básico do MVC é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
+
+Com o MVC, é possível separar o código relativo à interface do usuário das regras de negócio. Além disso, deixa o código mais manutenível, ou seja, mais fácil de fazer manutenção, já que temos as responsabilidades devidamente separadas. Isso também traz uma facilidade na compreensão do código, além da sua reutilização. Além disso, tem-se um código mais testável, pois ele é mais granular.
+
+### Model
+
+É a camada que contem a estrutura de dado atrás de uma parte específica da aplicação,usualmente portada em JSON. Ela é:
+
+- Responsável pela leitura manipulação e validação de dados, e também de suas validações.
+- Responsável por tratar as regras de negócio.  
+- Obtém os dados e os traduz em informações relevantes para serem exibidas pela View.
+- Notifica a view e controler associados quando há uma mudança em seu estado. 
+
+<p align="center"> Exemplo de model aplicado no backend </p> 
+
+![carbon (8)](https://user-images.githubusercontent.com/38164895/116594835-09393800-a8f9-11eb-9a17-d26ad651bc4f.png)
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/models/User.js"> Link</a> </p>
+
+
+### View
+
+View pode ser qualquer saída de representação dos dados, como uma tabela ou um diagrama.
+
+- É a camada que exibe uma representação dos dados.
+- É camada de interface com usuário (view).
+- Também conhecida como cliente-side.
+- Faz a exibição dos dados, utilizando-se de #HTML e/ou XML.
+- É responsável por usar as informações modeladas para produzir interfaces de apresentação conforme a necessidade.
+
+<p align="center"> Exemplo de View (frontend) </p> 
+
+![carbon (9)](https://user-images.githubusercontent.com/38164895/116596592-ef98f000-a8fa-11eb-8b90-4b06a55ddbe3.png)
+
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend/blob/master/frontend/src/pages/Registro/index.js"> Link</a> </p>
+
+
+
+### Controller
+
+- É a camada de controle.
+- Exerce o controle de qual model deverá ser aplicado e qual view será mostrado ao usuário.
+- Podemos dizer que esta camada faz uma gerência das outras duas camadas.
+- O controller manipula e roteia as requisições dos usuários.
+- Interpreta as requisições submetidas pelo usuário e traduz em comandos que são enviados para o (Model) e/ou para a View) .
+- Valida as requisições dos usuários de acordo com as regras de autenticação e autorização.
+
+
+<p align="center"> Exemplo de controller aplicado ao projeto </p> 
+
+
+![carbon (10)](https://user-images.githubusercontent.com/38164895/116599231-33412900-a8fe-11eb-98f5-c9d677fb3cf2.png)
+
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/controllers/UserController.js"> Link</a> </p>
+
 
 
 # 5.0 - Visão de Caso de uso
