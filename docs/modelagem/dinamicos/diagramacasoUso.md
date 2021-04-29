@@ -6,7 +6,8 @@
 |------|--------|-----------|-------|
 | 01/03/2021 | 1.0 | Criação do documento | Lucas Lopes |
 | 06/03/2021 | 1.1 | Criação da introdução e do diagrama | Lucas Lopes |
-| 07/03/2921 | 1.2 | Pequena atualização do diagrama de casos de uso | Lucas Lopes, Murilo, Matheus | 
+| 07/03/2021 | 1.2 | Pequena atualização do diagrama de casos de uso | Lucas Lopes, Murilo, Matheus | 
+| 29/04/2021 | 1.3 | Atualização diagrama de casos de uso | Lucas Lopes |
 
 ## Introdução
 
@@ -39,6 +40,11 @@
 
 <p align="center"> Fonte: Autor </p>
 
+<p algin="center"> Diagrama de casos de uso V3.0 </p>
+
+![Untitled Diagram(1)](https://user-images.githubusercontent.com/38164895/116618661-b9b53500-a915-11eb-8484-bc21157ad6f0.png)
+
+<p align="center"> Fonte: Autor </p>
 
 
 ## Referências
