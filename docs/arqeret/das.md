@@ -1,29 +1,30 @@
-
 # Versionamento
 
-| Data | Versão | Descrição | Autor |
-|------|--------|-----------|-------|
-| 27/04/2021 | 1.0 | Criado a estrutura do documento | Lucas Lopes |
-| 29/04/2021 | 2.0 | Adição do topico 2.0 | Lucas Lopes |
-| 29/04/2021 | 4.0 | Adição do tópico 4.0 | Lucas Lopes |
-| 29/04/2021 | 5.0 | Adição do tópico 5.0, 6.1 e 10.0 | Lucas Lopes | 
-
-
+| Data       | Versão | Descrição                        | Autor          |
+| ---------- | ------ | -------------------------------- | -------------- |
+| 27/04/2021 | 1.0    | Criado a estrutura do documento  | Lucas Lopes    |
+| 29/04/2021 | 2.0    | Adição do topico 2.0             | Lucas Lopes    |
+| 29/04/2021 | 4.0    | Adição do tópico 4.0             | Lucas Lopes    |
+| 29/04/2021 | 5.0    | Adição do tópico 5.0, 6.1 e 10.0 | Lucas Lopes    |
+| 30/04/2021 | 6.0    | Adição do tópico 1.1, 1.2        | Matheus Filipe |
 
 # 1 - Introdução
 
-
-
 ## 1.1 - Finalidade
+
+<p align="justify">  O documento a seguir, tem por objetivo fornecer uma explicação acerca de todo o sistema por meio de diversos documentos de visões arquiteturais para detalhar o comportamento e decisões de processos acerca de cada parte da arquitetura do projeto.</p>
 
 ## 1.2 - Escopo
 
-# 2.0 - Representação  Arquitetural
+<p align="justify">  Com o intuito de compor o escopo deste documento, toda a estrutura do projeto será explanada assim como as tecnologias, suas integrações no sistema e os processos envolvidos no fluxo operacional de cada funcionalidade do produto. O projeto <b>Meu Brechó</b> consiste em uma solução de software para atender uma necessidade prática comercial de peças de roupas entre usuários que queiram comprar ou vender roupas novas ou semi-usadas. Para quem deseja vender roupas é possível criar uma loja virtual personalizada com os items desejados, o processo de compra é feito pelas formas de contato disponibilizadas pelo próprio vendedor das peças por meio de um acordo entre âmbas as partes.</p>
+
+# 2.0 - Representação Arquitetural
+
 ## 2.1 - Tecnologias
+
 ### Frontend
 
 <p align="justify"> <b>React JS</b> é uma biblioteca JavaScript para a criação de interfaces de usuário. Foi Criado em 2011 Facebook.O React é uma biblioteca front-end e tem como um de seus objetivos facilitar a conexão entre diferentes partes de uma página, portanto seu funcionamento acontece através do que é chamado de componentes. Foi escolhida essa tecnologia pois existem diversos conteúdos de fácil acesso. Por isso é, uma escolha segura e de fácil aprendizagem pela equipe. </p>
-
 
 ### Backend
 
@@ -31,15 +32,15 @@
 
 <p align="justify"> <b> Express.js </b>é um Framework rápido e um dos mais utilizados em conjunto com o Node.js, facilitando no desenvolvimento de aplicações back-end e até, em conjunto com sistemas de templates, aplicações full-stack. </p>
 
-
 ### Banco de dados
 
 <p align="justify"> <b>O MongoDB</b> é um banco de dados opensource, de alta performance e flexível, sendo considerado o principal banco de dados NoSQL. O MongoDB é orientado a documentos, ou seja, os dados são armazenados como documentos, ao contrário de bancos de dados de modelo relacional, onde trabalhamos com registros em linhas e colunas. Os documentos podem ser descritos como dados no formato de chave-valor, no caso, utilizando o formato JSON (JavaScript Object Notation). O Mongo foi utilizado pois permite executar consultas executando código JavaScript o que é útil ao utilizarmos com o backend em nodejs e frontend em React. Além disso, é de fácil integração e rápido aprendizado. </p>
 
 # 3.0 - Metas e Restrição da Arquitetura
-## 3.1 - Metas
-## 3.2 - Restrições
 
+## 3.1 - Metas
+
+## 3.2 - Restrições
 
 # 4.0 - Padrão Arquitetural
 
@@ -58,16 +59,15 @@
 <p align="justify"> É a camada que contem a estrutura de dado atrás de uma parte específica da aplicação,usualmente portada em JSON. Ela é: </p>
 
 - Responsável pela leitura manipulação e validação de dados, e também de suas validações.
-- Responsável por tratar as regras de negócio.  
+- Responsável por tratar as regras de negócio.
 - Obtém os dados e os traduz em informações relevantes para serem exibidas pela View.
-- Notifica a view e controler associados quando há uma mudança em seu estado. 
+- Notifica a view e controler associados quando há uma mudança em seu estado.
 
-<p align="center"> Exemplo de model aplicado no backend </p> 
+<p align="center"> Exemplo de model aplicado no backend </p>
 
 ![carbon (8)](https://user-images.githubusercontent.com/38164895/116594835-09393800-a8f9-11eb-9a17-d26ad651bc4f.png)
 
 <p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/models/User.js"> Link</a> </p>
-
 
 ### View
 
@@ -79,14 +79,11 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 - Faz a exibição dos dados, utilizando-se de #HTML e/ou XML.
 - É responsável por usar as informações modeladas para produzir interfaces de apresentação conforme a necessidade.
 
-<p align="center"> Exemplo de View (frontend) </p> 
+<p align="center"> Exemplo de View (frontend) </p>
 
 ![carbon (9)](https://user-images.githubusercontent.com/38164895/116596592-ef98f000-a8fa-11eb-8b90-4b06a55ddbe3.png)
 
-
 <p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend/blob/master/frontend/src/pages/Registro/index.js"> Link</a> </p>
-
-
 
 ### Controller
 
@@ -97,18 +94,14 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 - Interpreta as requisições submetidas pelo usuário e traduz em comandos que são enviados para o (Model) e/ou para a View) .
 - Valida as requisições dos usuários de acordo com as regras de autenticação e autorização.
 
-
-<p align="center"> Exemplo de controller aplicado ao projeto </p> 
-
+<p align="center"> Exemplo de controller aplicado ao projeto </p>
 
 ![carbon (10)](https://user-images.githubusercontent.com/38164895/116599231-33412900-a8fe-11eb-98f5-c9d677fb3cf2.png)
 
-
 <p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend/blob/master/src/app/controllers/UserController.js"> Link</a> </p>
 
-
-
 # 5.0 - Visão de Caso de uso
+
 <p align="justify"> Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema </p>
 
 <p align="center"> Diagrama de casos de uso geral </p>
@@ -121,14 +114,11 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 
 <p align="justify"> A visão lógica mostra um subconjunto do modelo de design significativo em termos de arquitetura, ou seja, um subconjunto das classes, subsistemas, pacotes e realizações de caso de uso. </p>
 
-
 ## 6.1 - Diagrama de contexto
 
 <p align="justify"> O diagrama de contexto é um gráfico, composto por um fluxo de dados que mostra as interfaces entre o projeto e a sua relação com o ambiente em que vai ser desenvolvido. </p>
 
 ![Untitled Diagram-Page-2(1)](https://user-images.githubusercontent.com/38164895/116625499-1ddcf680-a920-11eb-9f46-ef9e82b866d7.png)
-
-
 
 ## 6.2 - Diagrama de pacotes
 
@@ -144,96 +134,98 @@ Aqui, há uma descrição do modelo de persistência de dados persistidos no Mon
 
 ## Modelo Usuário
 
-* _id
-    - Tipo: Number
-    - Obrigatoriedade: Sim
+- \_id
+  - Tipo: Number
+  - Obrigatoriedade: Sim
 
-- Nome
-    - Tipo: String
-    - Obrigatoriedade: Sim
+* Nome
 
-- Email
-    - Tipo: String
-    - Obrigatoriedade: Sim
-    - Único: Sim
+  - Tipo: String
+  - Obrigatoriedade: Sim
 
-- Senha
-    - Tipo: String
-    - Obrigatoriedade: Sim
+* Email
 
-- Whatsapp
-    - Tipo: Number
-    - Obrigatoriedade: Sim
-    
-- CPF
-    - Tipo: Number
-    - Obrigatoriedade: Sim
+  - Tipo: String
+  - Obrigatoriedade: Sim
+  - Único: Sim
 
+* Senha
+
+  - Tipo: String
+  - Obrigatoriedade: Sim
+
+* Whatsapp
+  - Tipo: Number
+  - Obrigatoriedade: Sim
+* CPF
+  - Tipo: Number
+  - Obrigatoriedade: Sim
 
 ### Exemplo
 
 ![carbon (11)](https://user-images.githubusercontent.com/38164895/116627357-5d591200-a923-11eb-98c1-fa91ccfb765a.png)
 
-
 ## Modelo Produto
 
-* _id
-    - Tipo: Number
-    - Obrigatoriedade: Sim
+- \_id
+  - Tipo: Number
+  - Obrigatoriedade: Sim
 
-- Nome
-    - Tipo: String
-    - Obrigatoriedade: Sim
+* Nome
 
-- imagem
-    - Tipo: String
-    - Obrigatoriedade: Sim
+  - Tipo: String
+  - Obrigatoriedade: Sim
 
-- Descricao
-    - Tipo: String
-    - Obrigatoriedade: Sim
+* imagem
 
-- Preco
-    - Tipo: Number
-    - Obrigatoriedade: Sim
+  - Tipo: String
+  - Obrigatoriedade: Sim
 
-- User_id
-    - Tipo: Usuário (ref user)
-    - Obrigatoriedade: Sim
+* Descricao
 
-- User_favorite
-    - Tipo: ArrayList Usuário (ref user)
-    - Obrigatoriedade: Não
+  - Tipo: String
+  - Obrigatoriedade: Sim
 
-- Tag
-    - Tipo ArrayList Tag (ref tag)
-    - Obrigatoriedade: Não
+* Preco
+
+  - Tipo: Number
+  - Obrigatoriedade: Sim
+
+* User_id
+
+  - Tipo: Usuário (ref user)
+  - Obrigatoriedade: Sim
+
+* User_favorite
+
+  - Tipo: ArrayList Usuário (ref user)
+  - Obrigatoriedade: Não
+
+* Tag
+  - Tipo ArrayList Tag (ref tag)
+  - Obrigatoriedade: Não
 
 ### Exemplo
 
 ![carbon (12)](https://user-images.githubusercontent.com/38164895/116628997-af4f6700-a926-11eb-9e85-24a126674656.png)
 
-
 ## Modelo TAG
 
-* _id
-    - Tipo: Number
-    - Obrigatoriedade: Sim
+- \_id
+  - Tipo: Number
+  - Obrigatoriedade: Sim
 
-
-- Tag
-    - Tipo ArrayList String
-    - Obrigatoriedade: Sim
+* Tag
+  - Tipo ArrayList String
+  - Obrigatoriedade: Sim
 
 ### Exemplo
 
 ![carbon (13)](https://user-images.githubusercontent.com/38164895/116629555-dbb7b300-a927-11eb-927f-c1d424f8784e.png)
 
-
 ## Referências
 
-React: o que é, como funciona e porque usar e como aprender.  Disponível em: https://kenzie.com.br/blog/react/.  Último acesso em 29/04/2021.
-
+React: o que é, como funciona e porque usar e como aprender. Disponível em: https://kenzie.com.br/blog/react/. Último acesso em 29/04/2021.
 
 O que é o express js. Disponível em: https://www.treinaweb.com.br/blog/o-que-e-o-express-js/. Último acesso em: 29/04/2021.
 
