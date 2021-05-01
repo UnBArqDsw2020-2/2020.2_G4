@@ -1,12 +1,13 @@
 # Versionamento
 
-| Data       | Versão | Descrição                        | Autor          |
-| ---------- | ------ | -------------------------------- | -------------- |
-| 27/04/2021 | 1.0    | Criado a estrutura do documento  | Lucas Lopes    |
-| 29/04/2021 | 2.0    | Adição do topico 2.0             | Lucas Lopes    |
-| 29/04/2021 | 4.0    | Adição do tópico 4.0             | Lucas Lopes    |
-| 29/04/2021 | 5.0    | Adição do tópico 5.0, 6.1 e 10.0 | Lucas Lopes    |
-| 30/04/2021 | 6.0    | Adição do tópico 1.1, 1.2        | Matheus Filipe |
+| Data       | Versão | Descrição                            | Autor          |
+| ---------- | ------ | ------------------------------------ | -------------- |
+| 27/04/2021 | 1.0    | Criado a estrutura do documento      | Lucas Lopes    |
+| 29/04/2021 | 2.0    | Adição do topico 2.0                 | Lucas Lopes    |
+| 29/04/2021 | 4.0    | Adição do tópico 4.0                 | Lucas Lopes    |
+| 29/04/2021 | 5.0    | Adição do tópico 5.0, 6.1 e 10.0     | Lucas Lopes    |
+| 30/04/2021 | 6.0    | Adição do tópico 1.1, 1.2, 3.1 e 3.2 | Matheus Filipe |
+| 01/05/2021 | 6.1    | Adição do tópico 7.0                 | Matheus Filipe |
 
 # 1 - Introdução
 
@@ -40,7 +41,19 @@
 
 ## 3.1 - Metas
 
+<b>Praticidade - </b> A aplicação deve fornecer uma solução rápida e prática para compra e venda de roupas.
+
+<b>Uso intuitivo - </b> Com poucas ações o usuário deve ser capaz de realizar as operações desejadas.
+
+<b>Segurança - </b> É de suma importância que os dados sigilosos de cada usuário seja preservado durante todo o período de utilização do software.
+
 ## 3.2 - Restrições
+
+<b>Cadastro - </b> Para ter acesso ao sistema é obrigatório realizar login com credenciais registradas mediante cadastro de usuário.
+
+<b>Compatibilidade - </b> A aplicação deve rodar apenas em navegadores.
+
+<b> Transações financeiras - </b> O sistema não possui nenhum suporte para gerenciamento de transações financeiras de qualquer natureza envolvendo os produtos registrados.
 
 # 4.0 - Padrão Arquitetural
 
@@ -123,6 +136,8 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 ## 6.2 - Diagrama de pacotes
 
 # 7.0 - Visão de processos
+
+<p align="justify"> Os processos envonveldo as ações disponíveis no sistemas foram descritos pricipalmente por meio de diagramas de sequência que demonstram de forma minuciosa o ciclo de vida de todas as partes envolvidas durante a execução de cada funcionalidade do produto. Os diagramas são: </p>
 
 # 8.0 - Visão de implantação
 
