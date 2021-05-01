@@ -139,6 +139,42 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 
 <p align="justify"> Os processos envonveldo as ações disponíveis no sistemas foram descritos pricipalmente por meio de diagramas de sequência que demonstram de forma minuciosa o ciclo de vida de todas as partes envolvidas durante a execução de cada funcionalidade do produto. Os diagramas são: </p>
 
+#### Realizar Login
+
+<p> Ação de realizar login no sistema por meio de um registro validado por autenticador de sessão, após o cadastro a entrada é validada com o email e senha do usuário novo. </p>
+
+![Untitled Diagram(2)](https://user-images.githubusercontent.com/54318472/110359017-bf7c5180-801b-11eb-8d45-b2325eeb2048.png)
+
+#### Cadastrar Produto
+
+<p> Fluxo detalhando o cadastro de um produto novo por um usuário. </p>
+
+![Untitled Diagram(3)](https://user-images.githubusercontent.com/54318472/110359149-e9ce0f00-801b-11eb-8ed5-ce20e0359f03.png)
+
+#### Consultar Catálogo
+
+<p> Processo de visualização de um catálogo de produtos disponível ao usuário. </p>
+
+![Untitled Diagram(4)](https://user-images.githubusercontent.com/54318472/110358427-29e0c200-801b-11eb-8f42-298d3f677fcd.png)
+
+#### Visualizar Detalhes do Produto
+
+<p> Visualizar todos os detalhes referente a um produto selecionado.</p>
+
+![Untitled Diagram(5)](https://user-images.githubusercontent.com/54318472/110359337-24d04280-801c-11eb-9c66-9a5138837f90.png)
+
+#### Favoritar Produto
+
+<p> Processo de favoritar um produto disponível no catálogo.</p>
+
+![Untitled Diagram(6)](https://user-images.githubusercontent.com/54318472/110358838-8c39c280-801b-11eb-8bca-a95919d45037.png)
+
+#### Remover Produto
+
+<p>Remover um produto do carrinho de compras.</p>
+
+![Untitled Diagram(7)](https://user-images.githubusercontent.com/54318472/110359489-50ebc380-801c-11eb-87c0-e5f467142695.png)
+
 # 8.0 - Visão de implantação
 
 # 9.0 - Visão de implementação
