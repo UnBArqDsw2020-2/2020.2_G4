@@ -179,13 +179,15 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 
 ## 8.1 - Diagrama de componentes
 
-<p align="justify"> A visão de implementação descreve como o sistema será implementado, sendo visualizado especialmente através do diagrama de componentes.A visão de implementação permite compreender a distribuição física do sistema analisando o fluxo de trabalho sob o design.</p>
+<p align="justify"> A visão de implementação descreve como o sistema será implementado, sendo visualizado especialmente através do diagrama de componentes,esse que refere-se a um módulo de classes que representa sistemas ou subsistemas independentes com capacidade de interagir com o restante do sistema.A visão de implementação permite compreender a distribuição física do sistema analisando o fluxo de trabalho sob o design.</p>
  
 ![Component Diagram0](https://user-images.githubusercontent.com/54318472/116917088-94316f80-ac24-11eb-9865-5b60b315e431.jpg)
 
 # 9.0 - Visão de dados
 
-Aqui, há uma descrição do modelo de persistência de dados persistidos no MongoDB.
+<p align="justify">
+Visão geral de dados persistentes, o qual mapeia dos objetos aos dados persistentes
+Aqui, há uma descrição do modelo de persistência de dados persistidos no MongoDB.</p>
 
 ## Modelo Usuário
 
