@@ -8,6 +8,8 @@
 | 29/04/2021 | 5.0    | Adição do tópico 5.0, 6.1 e 10.0     | Lucas Lopes    |
 | 30/04/2021 | 6.0    | Adição do tópico 1.1, 1.2, 3.1 e 3.2 | Matheus Filipe |
 | 01/05/2021 | 6.1    | Adição do tópico 7.0                 | Matheus Filipe |
+| 01/05/2021 | 7.0    | Adição do tópico 8.0.                | Murilo Schiler |
+| 01/05/2021 | 7.0    | Atualização do tópico 7.0.           | Murilo Schiler |
 
 # 1 - Introdução
 
@@ -174,6 +176,8 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 ![Remover Produto](https://user-images.githubusercontent.com/54318472/116920027-867de900-ac28-11eb-9dfc-ce5a10e3fd24.jpg)
 
 # 8.0 - Visão de implementação
+
+## 8.1 - Diagrama de componentes
 
 <p align="justify"> A visão de implementação descreve como o sistema será implementado, sendo visualizado especialmente através do diagrama de componentes.A visão de implementação permite compreender a distribuição física do sistema analisando o fluxo de trabalho sob o design.</p>
  
