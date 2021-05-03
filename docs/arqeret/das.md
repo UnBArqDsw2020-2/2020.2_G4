@@ -133,11 +133,6 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 
 ![Untitled Diagram-Page-2(1)](https://user-images.githubusercontent.com/38164895/116625499-1ddcf680-a920-11eb-9f46-ef9e82b866d7.png)
 
-## 6.2 - Diagrama de Sequencia
-
-<p align="justify">O diagrama de sequência serve para ilustrar um conjunto de interações entre partes de um sistema e representa uma boa forma de representar graficamente o comportamento de uma funcionalidade.</p>
-![Remover Produto](https://user-images.githubusercontent.com/54318472/116920027-867de900-ac28-11eb-9dfc-ce5a10e3fd24.jpg)
-
 # 7.0 - Visão de processos
 
 <p align="justify"> Os processos envonveldo as ações disponíveis no sistemas foram descritos pricipalmente por meio de diagramas de sequência que demonstram de forma minuciosa o ciclo de vida de todas as partes envolvidas durante a execução de cada funcionalidade do produto. Os diagramas são: </p>
@@ -146,37 +141,37 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 
 <p> Ação de realizar login no sistema por meio de um registro validado por autenticador de sessão, após o cadastro a entrada é validada com o email e senha do usuário novo. </p>
 
-![Untitled Diagram(2)](https://user-images.githubusercontent.com/54318472/110359017-bf7c5180-801b-11eb-8d45-b2325eeb2048.png)
+![Fazer Login](https://user-images.githubusercontent.com/54318472/116919759-225b2500-ac28-11eb-9755-b6d0b18d9dd2.jpg)
 
 #### Cadastrar Produto
 
 <p> Fluxo detalhando o cadastro de um produto novo por um usuário. </p>
 
-![Untitled Diagram(3)](https://user-images.githubusercontent.com/54318472/110359149-e9ce0f00-801b-11eb-8ed5-ce20e0359f03.png)
+![CriarNovoProduto](https://user-images.githubusercontent.com/54318472/116919857-49b1f200-ac28-11eb-88c2-30a585e7342d.jpg)
 
 #### Consultar Catálogo
 
 <p> Processo de visualização de um catálogo de produtos disponível ao usuário. </p>
 
-![Untitled Diagram(4)](https://user-images.githubusercontent.com/54318472/110358427-29e0c200-801b-11eb-8f42-298d3f677fcd.png)
+![ConsultarTodosProdutos](https://user-images.githubusercontent.com/54318472/116919906-5afafe80-ac28-11eb-9b18-924c155318ee.jpg)
 
 #### Visualizar Detalhes do Produto
 
 <p> Visualizar todos os detalhes referente a um produto selecionado.</p>
 
-![Untitled Diagram(5)](https://user-images.githubusercontent.com/54318472/110359337-24d04280-801c-11eb-9c66-9a5138837f90.png)
+![Ver detalhes do produto](https://user-images.githubusercontent.com/54318472/116919948-6a7a4780-ac28-11eb-9495-6b1c14990863.jpg)
 
 #### Favoritar Produto
 
 <p> Processo de favoritar um produto disponível no catálogo.</p>
 
-![Untitled Diagram(6)](https://user-images.githubusercontent.com/54318472/110358838-8c39c280-801b-11eb-8bca-a95919d45037.png)
+![Favoritar Produto](https://user-images.githubusercontent.com/54318472/116919989-7a922700-ac28-11eb-8a0a-8eb72aa52615.jpg)
 
 #### Remover Produto
 
 <p>Remover um produto do carrinho de compras.</p>
 
-![Untitled Diagram(7)](https://user-images.githubusercontent.com/54318472/110359489-50ebc380-801c-11eb-87c0-e5f467142695.png)
+![Remover Produto](https://user-images.githubusercontent.com/54318472/116920027-867de900-ac28-11eb-9dfc-ce5a10e3fd24.jpg)
 
 # 8.0 - Visão de implementação
 
