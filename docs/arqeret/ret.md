@@ -4,7 +4,8 @@
 | ---------- | ------ | -------------------------------- | -------------- |
 | 27/04/2021 | 1.0    | Criado a estrutura do documento  | Lucas Lopes    |
 | 29/04/2021 | 2.0    | Adicionado introdução e docker   | Lucas Lopes    |
-| 03/04/2021 | 3.0    | Adicionado reutilização back-end | Matheus Filipe |
+| 03/04/2021 | 3.0    | Adicionado Frontend              | Murilo e Lucas |
+| 03/04/2021 | 4.0    | Adicionado reutilização back-end | Matheus Filipe |
 
 # Introdução
 
@@ -65,6 +66,40 @@ Para o Backend, foi configurado um Docker utilizando as tecnologias do NodeJs al
 
 # Frontend
 
+O React é a biblioteca mais popular do JavaScript e é usada para construir uma interface de usuário (IU). Ela oferece uma resposta excelente para o usuário adicionar comandos usando um novo método de renderizar sites.
+
+## Frozen Spots
+
+São considerados aqueles pontos que permanecem fixos em todas as instanciações, representa uma arquitetura geral do sistema. No React, foi utilizado alguns frozens spots, como:
+
+- **Web Hooks**: Permitem reutilizar lógica com estado sem mudar sua hierarquia de componentes.
+
+<p align="center"> Web Hooks </p>
+
+![carbon(8)](https://user-images.githubusercontent.com/38164895/116934189-03b25980-ac3b-11eb-9852-3e7c810b23b1.png)
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend/blob/master/frontend/src/pages/Home/index.js"> Link </a> </p>
+
+- **JavaScript XML**: Permite escrever HTML no React, tornando fácil a sua adição Ou seja, ao invés de colocar o JavaScript no HTML, colocamos o HTML no JavaScript.
+
+<p align="center"> Javascript XML </p>
+
+![carbon(11)](https://user-images.githubusercontent.com/38164895/116935267-7e2fa900-ac3c-11eb-8c87-50180461191e.png)
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend/blob/master/frontend/src/pages/Registro/index.js"> Link </a> </p>
+
+## Hot Spots
+
+São considerados aqueles pontos que são feitos para serem genéricos, dando liberdade ao usuário de modelar como quiser. Representa partes específicas dentro do sistema. No React, está sendo utilizando alguns hot spots.
+
+- **Components**: Permite reutilizar a estrutura,lógica e estilos de código. No exemplo abaixo, foi utilizado nos itens da loja.
+
+<p align="center"> Item Component </p>
+
+![carbon(9)](https://user-images.githubusercontent.com/38164895/116934704-b08cd680-ac3b-11eb-8e9a-9f10e14a3192.png)
+
+<p align="center"> <a href="https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend/blob/master/frontend/src/components/item/item.js"> Link </a> </p>
+
 # Backend
 
 ## Mongoose
@@ -86,3 +121,5 @@ Exemplo de uma query de busca:
 Software Reuse Research: Status and Future. Disponível em: https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F81286E552CB9153A6C3AF0C943DCB08?doi=10.1.1.75.635&rep=rep1&type=pdf. Acesso em: 29/04/2021
 
 Reutilização de Software - Revista Engenharia de Software. Disponível em: https://www.devmedia.com.br/reutilizacao-de-software-revista-engenharia-de-software-magazine-39/21956. Acesso em: 29/04/2021
+
+O que é JSX?. Disponível em: https://www.mundojs.com.br/2020/09/23/o-que-e-jsx/. Acesso em 03/05/2021.
