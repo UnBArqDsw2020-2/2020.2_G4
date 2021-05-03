@@ -8,8 +8,8 @@
 | 29/04/2021 | 5.0    | Adição do tópico 5.0, 6.1 e 10.0     | Lucas Lopes    |
 | 30/04/2021 | 6.0    | Adição do tópico 1.1, 1.2, 3.1 e 3.2 | Matheus Filipe |
 | 01/05/2021 | 6.1    | Adição do tópico 7.0                 | Matheus Filipe |
-| 01/05/2021 | 7.0    | Adição do tópico 8.0.                | Murilo Schiler |
-| 01/05/2021 | 7.0    | Atualização do tópico 7.0.           | Murilo Schiler |
+| 03/05/2021 | 7.0    | Adição do tópico 8.0.                | Murilo Schiler |
+| 03/05/2021 | 7.0    | Atualização do tópico 7.0.           | Murilo Schiler |
 
 # 1 - Introdução
 
