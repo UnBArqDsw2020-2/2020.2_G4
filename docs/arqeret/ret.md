@@ -102,6 +102,24 @@ São considerados aqueles pontos que são feitos para serem genéricos, dando li
 
 # Backend
 
+## NodeJS
+
+NodeJS é uma plataforma de desenvolvimento e execução back-end de aplicações que executa códigos em JavaScript tendo como interpretador o V8 que utilizado no navegador Google Chrome. O NodeJS nos permite criar aplicações autônomas sem a necessidade de um browser para executá-la.
+
+## Frozen Spots
+
+- Funções e objetos pré-estruturados para desenvolvimento de aplicações.
+
+Exemplo:
+
+O objeto <b>Process</b> do NodeJS nos permite ter acesso as variáveis de ambiente do projeto por meio do parâmetro env.
+
+## Hot Spots
+
+- Estruturação de pastas
+
+A organização dos diretórios e módulos do projeto em uma estrutura clara consistente facilita o desenvolvimento e a manutenção do mesmo e ainda fornece uma facilidade para aplicação dos diversos padrões de projetos escolhidos para serem implementados.
+
 ## Mongoose
 
 O <b>Mongoose</b> é uma ferramenta bastante útil para poupar tempo com validações, casting de tipos e lógica de negócios na escrita e organização do banco de dados, optamos por utilizá-lo devido ao curto prazo para o desenvolvimento do projeto e por se apresentar como uma boa escolha para a arquitetura escolhida de um banco de dados não relacional. Também é importante citar que a manipulação de queries em SQL seria pouco produtivo para o cumprimento do escopo do projeto.
