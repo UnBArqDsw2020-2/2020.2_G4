@@ -102,6 +102,20 @@ São considerados aqueles pontos que são feitos para serem genéricos, dando li
 
 # Backend
 
+## Arquitetura
+
+A reutilização de software é baseada na utilização de conceitos, especificações, arquitetura ou código fonte , previamente acordados ou elaborados para a criação de um novo software.
+
+Como a arquitetura de um sistema é descrita em termos de identificação de seus componentes e de suas relações, ela é uma ponto de partida interessante para a reutilização.
+
+No projeto foi empregada a arquitetura MVC, porém com um nível de abstração Service , responsável pela modelagem das regras de negocio da aplicação. e foi divido em Back-end e Front-end.
+
+Exemplo da reutilização em uma service:
+![serviceReutilização](https://user-images.githubusercontent.com/54318472/116943787-a6260900-ac4a-11eb-82aa-7f2fae5bae9c.png)
+
+Exemplo de Reutilização nas rotas:
+![reutilizacao](https://user-images.githubusercontent.com/54318472/116943978-f7ce9380-ac4a-11eb-9b37-1bf4bb9b0443.png)
+
 ## Mongoose
 
 O <b>Mongoose</b> é uma ferramenta bastante útil para poupar tempo com validações, casting de tipos e lógica de negócios na escrita e organização do banco de dados, optamos por utilizá-lo devido ao curto prazo para o desenvolvimento do projeto e por se apresentar como uma boa escolha para a arquitetura escolhida de um banco de dados não relacional. Também é importante citar que a manipulação de queries em SQL seria pouco produtivo para o cumprimento do escopo do projeto.
