@@ -61,21 +61,43 @@ https://youtu.be/8O7JUFBDZEE
 https://youtu.be/znODIyFNDI4
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+### DAS
+
+![DAS](./assets/pictures/DAS.png)
+
+### Reutilização
+
+![Reutilizacao](./assets/pictures/Reutilizacao.png)
+
+### Loja
+
+![LojaFrontend](./assets/pictures/LojaFrontend.png)
+
+### Seus produtos
+
+![VendaFrontend](./assets/pictures/VendaFrontend.png)
+
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione o(s)s vídeo(s) da Entrega Final.
+
+[Vídeo do DAS](https://youtu.be/Cyd1YD3idXM)
+
+[Vídeo da Reutilização e mostrando a aplicação](https://youtu.be/T0kFL-iASLI)
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
-**Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
-**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Metodologia Ágil usando Scrum<br>
+**Principais Linguagens Utilizadas e/ou Pretendidas**: JavaScript, HTML, CSS<br>
+**Principais Tecnologias Utilizadas e/ou Pretendidas**: ReactJS, MongoDB, NodeJS, ExpressJS<br>
+**Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: MVC<br>
 
 ## O Projeto está rodando?
-( ) SIM
-(X) NÃO
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
+(X) SIM
+( ) NÃO
+
+Para rodar a aplicação é necessário ter o backend e o frontend na sua máquina usando o comando <code>git clone `https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-frontend.git`</code> e <code>git clone `https://github.com/UnBArqDsw2020-2/2020.2_G4-Meubrecho-backend.git`</code>
+
+Após ter os dois repositórios é necessário entrar na pasta de ambos e rodar o comando <code>docker-compose up --build</code> ele instalará todas as dependências num container docker para o frontend e para o backend.
 
 ## Informações Complementares 
-Quaisquer outras informações sobre seu projeto podem ser descritas nessa seção.
+Os repositórios contam com um template para a criação de issues e pull requests, para criar ambos de acordo com os padrões do projeto é bem simples. Sinta-se a vontade para fazer ambos.
